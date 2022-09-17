@@ -63,7 +63,7 @@
   loop_control:
     label: "{{ item.name }}"
   notify:
-    - reload firewalld
+    - Reload firewalld
 
 - name: close ports (firewalld-port)
   ansible.posix.firewalld:
@@ -81,7 +81,7 @@
   loop_control:
     label: "{{ item.name }}"
   notify:
-    - reload firewalld
+    - Reload firewalld
 
 - name: open ports (firewalld-service)
   ansible.posix.firewalld:
@@ -97,7 +97,7 @@
   loop_control:
     label: "{{ item.name }}"
   notify:
-    - reload firewalld
+    - Reload firewalld
 
 - name: close ports (firewalld-service)
   ansible.posix.firewalld:
@@ -115,7 +115,7 @@
   loop_control:
     label: "{{ item.name }}"
   notify:
-    - reload firewalld
+    - Reload firewalld
 
 - name: enable ufw
   community.general.ufw:
@@ -137,7 +137,7 @@
   loop_control:
     label: "{{ item.name }}"
   notify:
-    - reload firewall
+    - Reload firewall
 
 - name: start and enable firewall service
   ansible.builtin.service:
