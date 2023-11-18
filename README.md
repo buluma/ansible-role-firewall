@@ -1,4 +1,4 @@
-# [firewall](#firewall)
+# [Ansible role firewall](#firewall)
 
 Manage firewall ports on all (known) Linux operating systems.
 
