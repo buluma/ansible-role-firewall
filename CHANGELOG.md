@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-firewall/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-firewall/compare/0.1.0...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#6](https://github.com/buluma/ansible-role-firewall/issues/6)
+
 ## [0.1.0](https://github.com/buluma/ansible-role-firewall/tree/0.1.0) (2022-07-16)
 
 [Full Changelog](https://github.com/buluma/ansible-role-firewall/compare/fb4b41cb53d03982fa1b2d2fc31b20b0c3ea6f5b...0.1.0)
