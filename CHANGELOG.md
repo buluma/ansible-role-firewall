@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-firewall/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-firewall/compare/0.1.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-firewall/compare/0.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#8](https://github.com/buluma/ansible-role-firewall/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [0.2.0](https://github.com/buluma/ansible-role-firewall/tree/0.2.0) (2024-01-04)
+
+[Full Changelog](https://github.com/buluma/ansible-role-firewall/compare/0.1.0...0.2.0)
 
 **Closed issues:**
 
