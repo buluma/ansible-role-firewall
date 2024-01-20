@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#11](https://github.com/buluma/ansible-role-firewall/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#10](https://github.com/buluma/ansible-role-firewall/pull/10) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#8](https://github.com/buluma/ansible-role-firewall/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
 
