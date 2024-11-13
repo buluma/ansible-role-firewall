@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ansible/ansible-lint from 24.9.0 to 24.9.2 [\#19](https://github.com/buluma/ansible-role-firewall/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#18](https://github.com/buluma/ansible-role-firewall/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [24.3.31](https://github.com/buluma/ansible-role-firewall/tree/24.3.31) (2024-03-29)
@@ -15,7 +16,6 @@
 **Merged pull requests:**
 
 - Bump dependabot/fetch-metadata from 1 to 2 [\#17](https://github.com/buluma/ansible-role-firewall/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#14](https://github.com/buluma/ansible-role-firewall/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#13](https://github.com/buluma/ansible-role-firewall/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#12](https://github.com/buluma/ansible-role-firewall/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
@@ -25,6 +25,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#14](https://github.com/buluma/ansible-role-firewall/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.1 to 6.0.3 [\#11](https://github.com/buluma/ansible-role-firewall/pull/11) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#10](https://github.com/buluma/ansible-role-firewall/pull/10) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#8](https://github.com/buluma/ansible-role-firewall/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
