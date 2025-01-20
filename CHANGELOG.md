@@ -6,11 +6,13 @@
 
 **Merged pull requests:**
 
+- Bump ansible/ansible-lint from 24.12.1 to 24.12.2 [\#23](https://github.com/buluma/ansible-role-firewall/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.0 to 24.12.1 [\#22](https://github.com/buluma/ansible-role-firewall/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.10.0 to 24.12.0 [\#21](https://github.com/buluma/ansible-role-firewall/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.2 to 24.10.0 [\#20](https://github.com/buluma/ansible-role-firewall/pull/20) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.0 to 24.9.2 [\#19](https://github.com/buluma/ansible-role-firewall/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#18](https://github.com/buluma/ansible-role-firewall/pull/18) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#14](https://github.com/buluma/ansible-role-firewall/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [24.3.31](https://github.com/buluma/ansible-role-firewall/tree/24.3.31) (2024-03-29)
 
@@ -19,7 +21,6 @@
 **Merged pull requests:**
 
 - Bump dependabot/fetch-metadata from 1 to 2 [\#17](https://github.com/buluma/ansible-role-firewall/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#14](https://github.com/buluma/ansible-role-firewall/pull/14) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#13](https://github.com/buluma/ansible-role-firewall/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#12](https://github.com/buluma/ansible-role-firewall/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
 
