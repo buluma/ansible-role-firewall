@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-firewall/compare/24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#5](https://github.com/buluma/ansible-role-firewall/issues/5)
+- rebuild action [\#4](https://github.com/buluma/ansible-role-firewall/issues/4)
+
 **Merged pull requests:**
 
 - Bump ansible/ansible-lint from 24.12.2 to 25.1.0 [\#24](https://github.com/buluma/ansible-role-firewall/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
