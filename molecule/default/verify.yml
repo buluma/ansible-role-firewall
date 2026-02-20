@@ -7,14 +7,14 @@
   tasks:
     - name: Create a firewall rule to open port 1337
       ansible.builtin.include_role:
-        name: ansible-role-firewall
+        name: buluma.firewall
       vars:
         firewall_services:
           - name: 1337
 
     - name: Remove a firewall rule to close port 1337
       ansible.builtin.include_role:
-        name: ansible-role-firewall
+        name: buluma.firewall
       vars:
         firewall_services:
           - name: 1337
@@ -22,7 +22,7 @@
 
     - name: Remove a firewall rule to close port 1337 again
       ansible.builtin.include_role:
-        name: ansible-role-firewall
+        name: buluma.firewall
       vars:
         firewall_services:
           - name: 1337
