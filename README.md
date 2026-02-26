@@ -52,7 +52,7 @@ firewall_default_rule: allow
 
 # A list of service to allow traffic to.
 firewall_services:
-- name: ssh
+  - name: ssh
 
 # A bit more difficult example:
 # firewall_services:
