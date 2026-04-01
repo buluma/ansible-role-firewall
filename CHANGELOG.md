@@ -11,6 +11,7 @@
 
 **Merged pull requests:**
 
+- Bump docker/setup-buildx-action from 3 to 4 [\#27](https://github.com/buluma/ansible-role-firewall/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.2 to 25.1.0 [\#24](https://github.com/buluma/ansible-role-firewall/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.1 to 24.12.2 [\#23](https://github.com/buluma/ansible-role-firewall/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.12.0 to 24.12.1 [\#22](https://github.com/buluma/ansible-role-firewall/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
